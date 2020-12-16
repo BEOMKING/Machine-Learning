@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b33ed23-4f5f-4c4f-8656-23d10220f4d0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="e0d6e763-dfc7-4cb7-8ac3-22a0ed56f637" />
+  <component name="ProjectId" id="1l5cmZYq7igLoswEBY2EJiXXjkt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="MachineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="power_demand_forecast" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MachineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/power_demand_forecast.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.power_demand_forecast" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b33ed23-4f5f-4c4f-8656-23d10220f4d0" name="Default Changelist" comment="" />
+      <created>1606890551348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606890551348</updated>
+      <workItem from="1606890552856" duration="2573000" />
+      <workItem from="1606979961867" duration="617000" />
+      <workItem from="1607496025049" duration="26000" />
+      <workItem from="1607496098357" duration="6782000" />
+      <workItem from="1607592271693" duration="16159000" />
+      <workItem from="1607669639097" duration="2946000" />
+      <workItem from="1607769644382" duration="2227000" />
+      <workItem from="1607831037623" duration="1198000" />
+      <workItem from="1607842771418" duration="9632000" />
+      <workItem from="1607864010221" duration="15118000" />
+      <workItem from="1607945119622" duration="7391000" />
+      <workItem from="1607962395150" duration="5032000" />
+      <workItem from="1608011769509" duration="20026000" />
+      <workItem from="1608055466397" duration="1434000" />
+      <workItem from="1608061628428" duration="464000" />
+      <workItem from="1608098523169" duration="533000" />
+      <workItem from="1608099390663" duration="617000" />
+      <workItem from="1608139169884" duration="372000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="923" y="336" key="#Notifications" timestamp="1607496117723">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="923" y="336" key="#Notifications/0.0.1707.1027@0.0.1707.1027" timestamp="1607496117723" />
+    <state x="977" y="268" key="FileChooserDialogImpl" timestamp="1606980680884">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="977" y="268" key="FileChooserDialogImpl/0.0.1707.1027@0.0.1707.1027" timestamp="1606980680884" />
+    <state width="1026" height="272" key="GridCell.Tab.0.bottom" timestamp="1607673359776">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1026" height="272" key="GridCell.Tab.0.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1607673359776" />
+    <state width="1026" height="272" key="GridCell.Tab.0.center" timestamp="1607673359776">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1026" height="272" key="GridCell.Tab.0.center/0.0.1707.1027@0.0.1707.1027" timestamp="1607673359776" />
+    <state width="1026" height="272" key="GridCell.Tab.0.left" timestamp="1607673359776">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1026" height="272" key="GridCell.Tab.0.left/0.0.1707.1027@0.0.1707.1027" timestamp="1607673359776" />
+    <state width="1026" height="272" key="GridCell.Tab.0.right" timestamp="1607673359776">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1026" height="272" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1607673359776" />
+    <state x="586" y="199" width="787" height="687" key="dock-window-1" timestamp="1607673359884">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="586" y="199" width="787" height="687" key="dock-window-1/0.0.1707.1027@0.0.1707.1027" timestamp="1607673359884" />
+    <state x="901" y="224" width="672" height="678" key="search.everywhere.popup" timestamp="1607937005228">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="901" y="224" width="672" height="678" key="search.everywhere.popup/0.0.1707.1027@0.0.1707.1027" timestamp="1607937005228" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MachineLearning$power_demand_forecast.coverage" NAME="power_demand_forecast Coverage Results" MODIFIED="1607673087676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
